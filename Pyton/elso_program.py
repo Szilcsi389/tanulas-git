@@ -1,2 +1,3 @@
-print("Hello, GitHub!")
-print("Ez az első verziózott Python programom.")
+nev = input("Hogy hívnak? ")
+print("Szia,", nev)
+print("Örülök, hogy itt vagy!")
