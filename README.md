@@ -8,7 +8,8 @@ Ez a repository azért jött létre, hogy megtanuljam:
 Itt fognak szerepelni:
 - jegyzetek
 - példaprogramok
-- gyakorló feladatok
+- gyakorló feladatok  
+
 Első helyi módosítás a saját gépemről.
 Meg egy probalkozas  
 Utolso probalkozas
