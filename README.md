@@ -10,6 +10,6 @@ Itt fognak szerepelni:
 - példaprogramok
 - gyakorló feladatok  
 
-Első helyi módosítás a saját gépemről.
+Első helyi módosítás a saját gépemről.  
 Meg egy probalkozas  
 Utolso probalkozas
