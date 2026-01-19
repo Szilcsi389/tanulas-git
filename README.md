@@ -9,3 +9,4 @@ Itt fognak szerepelni:
 - jegyzetek
 - példaprogramok
 - gyakorló feladatok
+Első helyi módosítás a saját gépemről.
